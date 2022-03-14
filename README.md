@@ -9,3 +9,6 @@ Hello, I am **ManojRaj M** a student from TamilNadu, Currently studing Informati
 
 * [Personal website](https://manojrajm.github.io/)
 
+[Skills]()
+
+[HTML](https://html.spec.whatwg.org/)
