@@ -11,4 +11,4 @@ Hello, I am **ManojRaj M** a student from TamilNadu, Currently studing Informati
 
 [Skills]()
 
-[HTML](https://html.spec.whatwg.org/)
+![https://html.spec.whatwg.org/](html.jpg) ![https://www.w3.org/TR/css-2021/](css.png) ![https://www.ecma-international.org/publications-and-standards/standards/ecma-262/](js.jpg) ![https://www.ecma-international.org/publications-and-standards/standards/ecma-262/](java.png)
