@@ -7,7 +7,7 @@ Hello, I am **ManojRaj M** a student from TamilNadu, Currently studing Informati
 
 
 
-* [Personal website](https://manojrajm.github.io/)
+    * [Personal website](https://manojrajm.github.io/)
 
 
 # **Skills**
