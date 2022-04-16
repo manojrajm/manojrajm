@@ -23,3 +23,4 @@ Hello, I am ***ManojRaj M*** a student from TamilNadu, Currently studing Informa
  * [c]()
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojrajm)](https://github.com/manojrajm/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
