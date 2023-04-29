@@ -11,7 +11,7 @@ Hello, I am ***ManojRaj M*** a student from TamilNadu, Currently studing Informa
 
 
 
-  * [Personal website](manojrajm.github.io/mr-portofolio/)
+  * [Personal website]([manojrajm.github.io/mr-portofolio/](https://manojrajm.github.io/mr-portofolio/))
 
 # PROGRAMMING LANGUAGE
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
