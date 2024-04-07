@@ -4,14 +4,9 @@
 
 ![image](manojraj.png)
 
-* I am ***Manoj*** and I am a DEVELOPER
-Hello, I am ***ManojRaj M*** a student from TamilNadu, Currently studing Information Technology at Anna University, Trichy.
+ I'm a **ManojRajM** from TamilNadu, currently studying Information Technology at Anna University, Trichy. I'm a self-taught developer passionate about learning new things and exploring different frameworks.
 
-* I am a self-taught Developer and I love to learn new things. I am beginners and interested  in framework.
-
-
-
-  * [Personal website](https://manojrajm.github.io/mr-portofolio/)
+🌐 [Personal website](https://manojrajm.github.io/mr-portofolio/)
 
 # PROGRAMMING LANGUAGE
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -52,7 +47,20 @@ Hello, I am ***ManojRaj M*** a student from TamilNadu, Currently studing Informa
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojrajm)](https://github.com/manojrajm/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojrajm&show_icons=true&theme=radical)
+# GitHub Stats
+
+
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojrajm&theme=dark&show_icons=true&locale=en" alt="bala2703" />
+<br></br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojrajm&theme=dark" alt="bala2703" />
+</td>
+<td width="50%" align="center">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=manojrajm&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
+  </td>
+  </tr>
+</table>
 
 .
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojrajm&layout=compact&theme=radical)](https://github.com/manojrajm/github-readme-stats)
