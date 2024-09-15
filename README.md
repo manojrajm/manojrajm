@@ -8,6 +8,9 @@
 
 🌐 [Personal website](https://manojrajm.github.io/mr-portofolio/)
 
+
+
+
 # PROGRAMMING LANGUAGE
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -62,5 +65,8 @@
   </td>
   </tr>
 </table>
+
+# LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/manojemorite?theme=dark&font=Averia%20Serif%20Libre&ext=heatmap)
 
 .
