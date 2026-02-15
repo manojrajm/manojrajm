@@ -6,7 +6,7 @@
 
  I'm a **ManojRajM** from TamilNadu, currently studying Information Technology at Anna University, Trichy. I'm a self-taught developer passionate about learning new things and exploring different frameworks.
 
-🌐 [Personal website](https://manojrajm.github.io/mr-portofolio/)
+🌐 [Personal website](https://mr-portfolio-xskr.onrender.com/)
 
 
 
