@@ -56,12 +56,12 @@
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojrajm&theme=dark&show_icons=true&locale=en" alt="bala2703" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojrajm&theme=dark&show_icons=true&locale=en" alt="manojMR" />
 <br></br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojrajm&theme=dark" alt="bala2703" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojrajm&theme=dark" alt="manojMR" />
 </td>
 <td width="50%" align="center">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=manojrajm&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=manojrajm&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
   </tr>
 </table>
